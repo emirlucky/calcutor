@@ -1,2 +1,2 @@
-# calcutor
+# calculator
 sana pwede ya hahaha
